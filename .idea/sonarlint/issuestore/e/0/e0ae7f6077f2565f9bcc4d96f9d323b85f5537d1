@@ -1,0 +1,4 @@
+
+"squid:ClassVariableVisibilityCheck"VMake headerList a static final constant or non-public and provide accessors if needed.(À‚şªşÿÿÿÿ8²ƒí¿µ-
+Wsquid:S1172-"4Remove this unused method parameter "parameterBody".(¾”“Ÿûÿÿÿÿ8Šë“—µ-
+9squid:S1700"Rename field "request"(™ Ê˜ùÿÿÿÿ8Šë“—µ-
